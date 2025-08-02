@@ -1,12 +1,26 @@
-# React + Vite
+# Little lemon restaurant online rservation system
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Welcome to the Little Lemon Restaurant Online Reservation System! 
+This is a capstone project for the Meta Front End Development course, 
+developed using React hooks, HTML, and CSS.
 
-Currently, two official plugins are available:
+## Features
+* View restaurant information including overview, special menu items, and testimonials
+* View available reservation times for a chosen date and party size
+* Make a reservation by selecting a desired time slot and entering contact information
+* Clean UI design
+* Responsive design for optimal viewing on various devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+This project was developed using the following technologies: \
+![HTML BADGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS BADGE](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REACT BADGE](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Expanding the ESLint configuration
+- HTML: Used for the structure of the web pages
+- CSS: Used for styling the web pages
+- React hooks: Used to manage state and handle user interactions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
